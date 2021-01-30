@@ -1,0 +1,24 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "actions-on-google": "^2.13.0",
+        "body-parser": "^1.19.0",
+        "dialogflow": "^1.2.0",
+        "dialogflow-fulfillment": "^0.6.1",
+        "express": "^4.17.1",
+        "express-mongo-db": "^2.0.4",
+        "jsonwebtoken": "^8.5.1",
+        "logger": "0.0.1",
+        "mongodb": "^3.6.3",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.7"
+    }
+}
